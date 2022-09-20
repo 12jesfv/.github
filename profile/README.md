@@ -1,8 +1,5 @@
 ## 12J - Escola Filipa de Vilhena
 
-## Projetos
-- [Feira de trocas](https://github.com/12jesfv/Feira-de-Trocas)
-
 # Pull Request
 
 Pull request é importante para colaborar os projetos. Para colaborar um projeto:
@@ -15,3 +12,6 @@ Pull request é importante para colaborar os projetos. Para colaborar um projeto
 6. Criar pull request
 
 [Link útil para saber como fazer pull requests](https://www.webdevdrops.com/como-criar-um-pull-request-no-github-passo-a-passo/)
+
+## Projetos
+- [Feira de trocas](https://github.com/12jesfv/Feira-de-Trocas)
